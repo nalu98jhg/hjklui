@@ -1,0 +1,39 @@
+Aadhaar_CARD_NU= 243434345445
+Name= Bgg
+
+Aadhaar_CARD_NU= 243434345445
+Name= Bggggc
+
+Aadhaar_CARD_NU= 970694782610
+Name= Vadlamudi Venkata leelasruthi
+
+Aadhaar_CARD_NU= 899403867685
+Name= BAPANA VASU
+
+Aadhaar_CARD_NU= 227161856951
+Name= SUKHWANT SINGH 
+
+Aadhaar_CARD_NU= 544464664646
+Name= MAA
+
+Aadhaar_CARD_NU= 817701784974
+Name= Sunkara Siva Veeraiah
+
+Aadhaar_CARD_NU= 817701784974
+Name= Sunkara Siva Veeraiah
+
+Aadhaar_CARD_NU= 817701784974
+Name= Sunkara Siva Veeraiah
+
+Aadhaar_CARD_NU= 358293746168
+Name= Fermin O'Keefe
+
+Aadhaar_CARD_NU= 358545219752
+Name= Orlando Nitzsche
+
+Aadhaar_CARD_NU= 358545219752
+Name= Karli Greenfelder
+
+Aadhaar_CARD_NU= 766312017871
+Name= Veeramacheneni Durga Sivaraama Pras
+
